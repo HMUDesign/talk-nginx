@@ -1,6 +1,4 @@
-# nginx Talk
-
-![nginx](http://nginx.org/nginx.png)
+# ![nginx](http://nginx.org/nginx.png)
 
 ## What is nginx
 
